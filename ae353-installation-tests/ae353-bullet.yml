@@ -1,0 +1,13 @@
+name: ae353-bullet
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - sympy
+  - matplotlib
+  - pip
+  - python=3
+  - pip:
+    - pybullet
+    - notebook
